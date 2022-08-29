@@ -11,7 +11,7 @@
   - 리더보드를 통해 베이스라인 제출 등의 과정을 public으로 운영하는 이유는 학생 각자 자신의 실력을 포지셔닝 하길 바래서임. 오해하지 말 것 
 
 ## 2021년도 강의의견
-- 2021년도 학생들의 강의의견 파일입니다. 수강신청 시 참고바랍니다.[PDF](https://github.com/sejongresearch/2021.ArtificialIntelligence/blob/main/(2021)%20%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A7%E1%86%AB%E1%84%86%E1%85%A9%E1%84%8B%E1%85%B3%E1%86%B7.pdf)
+- 2021년도 학생들의 강의의견 파일입니다. 수강신청 시 참고바랍니다. [PDF파일](https://github.com/sejongresearch/2021.ArtificialIntelligence/blob/main/(2021)%20%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A7%E1%86%AB%E1%84%86%E1%85%A9%E1%84%8B%E1%85%B3%E1%86%B7.pdf)
 
 ## 수업정보
 - 수업방식: 비대면 녹화영상 & 오프라인 실습
