@@ -33,7 +33,7 @@
 
 | week | Cource Contents | LectureNote | Date |  Video | 과제 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | 수업 개요 | [PDF](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/LectureNote/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%80%E1%85%AA%E1%84%86%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%20I.pdf) | 2022.09.01 | [Youtube]() | | 
+| 1 | 수업 개요 | [PDF](https://github.com/sejongresearch/2022.AI/blob/main/LectureNote/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%80%E1%85%AA%E1%84%86%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%201%E1%84%87%E1%85%AE%20(2022).pdf) | 2022.09.01 | [Youtube]() | | 
 | 1 | 범용SW와 인공지능SW | X | 2022.09.01 | [Youtube]() | | 
 | 1 | 생활 속 인공지능 | X | 2022.09.01 | [Youtube]() | | 
 | 1 | 소프트웨어 교육, 길을 묻다 | X | 2022.09.01 | [Youtube]() |  |  
