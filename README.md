@@ -28,7 +28,7 @@
 - 담당조교(TA)
   - 홍주영(jyhong@rcv.sejong.ac.kr) : 총괄
   - 이광진(kjlee@rcv.sejong.ac.kr)
-  - 임근택(tklim@rcv.sejong.ac.kr)
+  - 임근택(gtlim@rcv.sejong.ac.kr)
   - 이승현(shlee@rcv.sejong.ac.kr)
 
 | week | Cource Contents | LectureNote | Date |  Video | 과제 |
