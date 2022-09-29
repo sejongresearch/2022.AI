@@ -44,7 +44,8 @@
 | 3 | 선형회귀 실습 | [실습1](https://www.kaggle.com/yukyungchoi/2022-ai-w3p1)<br> [실습2](https://www.kaggle.com/yukyungchoi/2022-ai-w3p2)<br> [실습3](https://www.kaggle.com/yukyungchoi/2022-ai-w3p3) | 2022.09.13 | [Youtube](https://youtu.be/-t4pME31keo) | 과제마감: 9/19 23:59 <br> [배추가격예측문제](https://www.kaggle.com/t/d350c89756364a99a66239867012e01a) <br> [자동차가격예측문제](https://www.kaggle.com/t/764bf3c3123444c4bb5886dd4080c727) | 
 | 4 | 선형분류 이론 | [PDF](https://github.com/sejongresearch/2022.AI/blob/main/LectureNote/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%5B%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%5D%20%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2.pdf) | 2022.09.20 | [Youtube](https://youtu.be/h8kt6q5kx30) | | 
 | 4 | 선형분류 실습 | [실습1](https://www.kaggle.com/yukyungchoi/2022-ai-w4p1)<br> [실습2](https://www.kaggle.com/yukyungchoi/2022-ai-w4p2) | 2022.09.20 | [Youtube](https://youtu.be/jpvPseZs3e0) | 과제마감: 9/26 23:59 <br> [당뇨병환자예측](https://www.kaggle.com/t/5d8a1342ab0940cc85a32d90738835c6) <br> [작물종류예측](https://www.kaggle.com/t/1be587e278b549aa9d284e24572ce673) | 
-
+| 5 | 모델학습 이론 | [PDF]()  | 2022.09.27 | [Youtube](https://youtu.be/SJ4qWDMSb50) |  | 
+| 5 | 퍼셉트론 이론 | [PDF]() | 2022.09.27 | [Youtube](https://youtu.be/EntSMbkJXKY) | 과제마감: 10/3 23:59 <br> [(선형분류)MNIST문제](https://www.kaggle.com/t/af7769902f0342fabb5561fd8c090730) | 
 
 ## 보충자료
 | week | Cource Contents | LectureNote |  Video | 기타 | 
