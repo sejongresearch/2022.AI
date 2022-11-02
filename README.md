@@ -30,6 +30,7 @@
   - 이광진(kjlee@rcv.sejong.ac.kr)
   - 임근택(gtlim@rcv.sejong.ac.kr)
   - 이승현(shlee@rcv.sejong.ac.kr)
+https://github.com/sejongresearch/2022.AI/blob/main/HW/Term_Project.md
 
 | week | Cource Contents | LectureNote | Date |  Video | 과제 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -53,10 +54,10 @@
 | 7 | 심층신경망 II 실습 | [실습1](https://colab.research.google.com/drive/15ArrVdJELyV-PeuATH5poe2uZoHm6Ih8?usp=sharing) <br> [실습2](https://colab.research.google.com/drive/1bimNZtout48XzSy7VoWbmdpOHQ-SAkHX?usp=sharing) <br> [실습3](https://colab.research.google.com/drive/1jsP6IkoSZW5roMip53QSPJjiVP6Ej3Zk?usp=sharing) <br> [실습4](https://colab.research.google.com/drive/1CI11CA5otqB7-RsQLKak3LJW3xeCUr9q?usp=sharing) <br> [실습5](https://colab.research.google.com/drive/1y9qF3D4vbQVhX_dZCgplRuw_EcgW8Sg2?usp=sharing) <br> [실습6](https://colab.research.google.com/drive/15Q5GSAPgsHeR0Y70zaiigHBBo4kwJ86o?usp=sharing)  | 2022.10.11 | [Youtube](https://youtu.be/wD0gM7RHU_o) | 과제마감: 10/17 23:59 <br> [(DNN)MNIST문제](https://www.kaggle.com/t/23cf7d43990f48e0af917d8f73e1bc19) <br> [교통량예측](https://www.kaggle.com/t/c40730d1c98c4c6caaefe927a381e7e9) | 
 | 9 | 합성곱신경망 I (이론) | [PDF](https://github.com/sejongresearch/2022.AI/blob/main/LectureNote/%5B%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%5D%5B9%EC%A3%BC%EC%B0%A8%5D%5B%EC%9D%B4%EB%A1%A0%5D%20%ED%95%A9%EC%84%B1%EA%B3%B1%EC%8B%A0%EA%B2%BD%EB%A7%9D%20I.pdf) | 2022.10.25 | [Youtube](https://youtu.be/Tqt_T6OpvEo) |  | 
 | 9 | 합성곱신경망 I (실습) | [PDF](https://github.com/sejongresearch/2022.AI/blob/main/LectureNote/%5B%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%5D%5B9%EC%A3%BC%EC%B0%A8%5D%5B%EC%8B%A4%EC%8A%B5%5D%20%ED%95%A9%EC%84%B1%EA%B3%B1%EC%8B%A0%EA%B2%BD%EB%A7%9D%20I.pdf)   | 2022.10.25 | [Youtube](https://youtu.be/E44ZC45xNto) | | 
-| 9 | 합성곱신경망 I (실습) | [실습1](https://colab.research.google.com/drive/12Kcx-wTr0PMF82eCGGtPDzGPlwtX-DKF?usp=sharing) <br> [실습2](https://colab.research.google.com/drive/13rNXo-OqmIl95tl2Iec76SgWahfy3jZ9?usp=sharing) | 2022.10.25 | [Youtube](https://youtu.be/Uz4h3GUqoZM) | 과제마감: 11/07 23:59 <br> [사전학습(DNN)MNIST문제](https://www.kaggle.com/t/f1d6f3c9baa642f88b11ac5b2b8831ed) <br> [(CNN)CIFAR-10문제](https://www.kaggle.com/t/3917822dfdad4adfa43578e1460b5680) |
+| 9 | 합성곱신경망 I (실습) | [실습1](https://colab.research.google.com/drive/12Kcx-wTr0PMF82eCGGtPDzGPlwtX-DKF?usp=sharing) <br> [실습2](https://colab.research.google.com/drive/13rNXo-OqmIl95tl2Iec76SgWahfy3jZ9?usp=sharing) | 2022.10.25 | [Youtube](https://youtu.be/Uz4h3GUqoZM) | 과제마감: 11/07 23:59:59 <br> [사전학습(DNN)MNIST문제](https://www.kaggle.com/t/f1d6f3c9baa642f88b11ac5b2b8831ed) <br> [(CNN)CIFAR-10문제](https://www.kaggle.com/t/3917822dfdad4adfa43578e1460b5680) |
 | 10 | 합성곱신경망 II (이론) | [PDF](https://github.com/sejongresearch/ArtificialIntelligence/blob/main/LectureNote/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B11%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%5B%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%5D%20%E1%84%92%E1%85%A1%E1%86%B8%E1%84%89%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A9%E1%86%B8%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A1%E1%86%BC%20II.pdf)   | 2022.11.01 | [Youtube](https://www.youtube.com/watch?v=cM94cK6N21g) | | 
 | 10 | 합성곱신경망 II (실습) | [실습1](https://colab.research.google.com/drive/1ufVXTVUMldHHrPo0-a7dTbNHlrHIz8ll?usp=sharing) <br> [실습2](https://colab.research.google.com/drive/1OOjVGe6GoIc02dj0KZwVtqTcxcl4hoB9?usp=sharing) <br> [실습3](https://colab.research.google.com/drive/1zyDIZ4SytI1d_dkleKEd_Ik8QIl--Yd5?usp=sharing) | 2022.11.01 | [Youtube](https://youtu.be/fKxzA9qoknQ) | 과제마감: 11/07 23:59 <br> [Caltech101영상분류](https://www.kaggle.com/t/b2bc440dd09e43e2a18fbb817a58ea79) <br> [음성데이터감정분류](https://www.kaggle.com/t/0583c5448f0740d0a7b68072a9a61d1b)  | 
-
+| 10 | 텀프로젝트 제안서 | [가이드라인](https://github.com/sejongresearch/2022.AI/blob/main/HW/Term_Project.md) | 2022.11.7 | | 텀프 제안서 마감 <br> 11/07 23:59 [가이드라인](https://github.com/sejongresearch/2022.AI/blob/main/HW/Term_Project.md)| 
 
 
 ## 보충자료
