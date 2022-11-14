@@ -61,6 +61,7 @@ https://github.com/sejongresearch/2022.AI/blob/main/HW/Term_Project.md
 | 11 | 인공지능 HW/SW (이론) | [PDF](https://github.com/sejongresearch/2022.AI/blob/main/LectureNote/%5B%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%5D%5B11%EC%A3%BC%EC%B0%A8%5D%20%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%99%80%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4.pdf)	| 2022.11.08	| [Youtube](https://youtu.be/b8JkQieeRiQ) | 
 | 11 | 세종 인공지능 챌린지 | ~~[참가신청](https://do.sejong.ac.kr/ko/program/all/view/2323)~~ 마감(10/31) |	2022.11.09.(수) |	수상시 가점**	| [대회일정](https://do.sejong.ac.kr/ko/program/all/view/2323) | 
 | 11 | 텀프로젝트 2단계 | [리더보드 생성 관련 <br> 가이드라인](https://github.com/sejongresearch/2022.AI/blob/main/HW/%5B%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%5D%5B%ED%95%99%EC%83%9D%EC%9A%A9%5DKaggle_%EB%A6%AC%EB%8D%94%EB%B3%B4%EB%93%9C_%EB%A7%8C%EB%93%A4%EA%B8%B0.pdf) | 2022.11.7 | | [2단계: <br> 리더보드&베이스라인](https://github.com/sejongresearch/2022.AI/blob/main/HW/Term_Project.md) <br> 마감 11/14 23:59| 
+| 12 | 텀프로젝트 집중 기간 | |	 |	2022.11.15	| [3/4단계: <br> 리더보드 공격, 리더보드 디팬스](https://github.com/sejongresearch/2022.AI/blob/main/HW/Term_Project.md) <br> 마감 11/21 23:59 | 
 
 
 
