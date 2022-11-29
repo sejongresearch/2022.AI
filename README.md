@@ -63,6 +63,8 @@ https://github.com/sejongresearch/2022.AI/blob/main/HW/Term_Project.md
 | 11 | 텀프로젝트 2단계 | [리더보드 생성 관련 <br> 가이드라인](https://github.com/sejongresearch/2022.AI/blob/main/HW/%5B%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%5D%5B%ED%95%99%EC%83%9D%EC%9A%A9%5DKaggle_%EB%A6%AC%EB%8D%94%EB%B3%B4%EB%93%9C_%EB%A7%8C%EB%93%A4%EA%B8%B0.pdf) | 2022.11.7 | | [2단계: <br> 리더보드&베이스라인](https://github.com/sejongresearch/2022.AI/blob/main/HW/Term_Project.md) <br> 마감 11/14 23:59| 
 | 12 | 텀프로젝트 집중 기간 | |	2022.11.15 |		| [3단계: <br> 리더보드 공격](https://github.com/sejongresearch/2022.AI/blob/main/HW/Term_Project.md) <br> 마감 11/17 23:59 | 
 | 12 | 텀프로젝트 집중 기간 | |	2022.11.15 |		| [4단계: <br> 리더보드 디팬스](https://github.com/sejongresearch/2022.AI/blob/main/HW/Term_Project.md) <br> 마감 11/21 23:59 | 
+| 13 | 텀프로젝트 집중 기간 | |	2022.11.22 |		| [5단계: <br> 리더보드 재공격](https://github.com/sejongresearch/2022.AI/blob/main/HW/Term_Project.md) <br> 마감 11/29 23:59 | 
+| 14 | 텀프로젝트 집중 기간 | |	2022.11.29 |		| [6단계: <br> 최종제출](https://github.com/sejongresearch/2022.AI/blob/main/HW/Term_Project.md) <br> 마감 11/30 23:59 | 
 
 
 
